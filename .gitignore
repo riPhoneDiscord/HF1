@@ -1,0 +1,8 @@
+__pycache__
+.vscode
+.env
+*.pyc
+cogs/__pycache__/admin.cpython-38.pyc
+*.pyc
+.DS_Store
+cogs/tests.py
